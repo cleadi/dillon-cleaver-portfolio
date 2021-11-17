@@ -24,8 +24,11 @@ This is my official web development portfolio. This is where you'll find the lat
 - CSS
 - JavaSript
 - jQuery
+- Scrollex (github.com/ajlkn/jquery.scrollex)
+-	Responsive Tools (github.com/ajlkn/responsive-tools)
 
-This website uses a template designed by @ajlkn on http://html5up.net. I'm using it for free under their CCA 3.0 license (html5up.net/license).
+This website is based on a template designed by @ajlkn on http://html5up.net. I'm using it for free under their CCA 3.0 license (html5up.net/license).
+
 
 ## <a href="#readme-badge"><img id="questions" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/questions-alt.png?raw=true" style="height: 40px"></a>
 

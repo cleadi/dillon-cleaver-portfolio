@@ -35,4 +35,4 @@ This website uses a template designed by @ajlkn on http://html5up.net. I'm using
 
 ## <a href="#readme-badge"><img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px"></a>
 
-<!-- ![budget-tracker-screenshot](public/assets/images/budget-tracker-screenshot.jpg) -->
+![dillon-cleaver-placeholder](./images/dillon-cleaver-placeholder.png)
